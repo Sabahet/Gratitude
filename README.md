@@ -1,5 +1,5 @@
 # Gratitude
-# Pre-work - *Name of App Here*
+# Pre-work - *Gratitude*
 
 Gratitude is a tip calculator application for iOS.
 
